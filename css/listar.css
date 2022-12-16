@@ -1,0 +1,17 @@
+.bg{
+    background-image: url("https://worldfootvolley.com/wp-content/uploads/2021/09/IMG_0316-1024x683.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+table{
+    height: 80px;
+    width: 400px;
+    box-shadow: 1px 1px 1px 1px;
+    color: black;
+    font-size: 20px;
+    text-align: start;
+    background-color: rgba(189, 187, 187, 0.664);
+}

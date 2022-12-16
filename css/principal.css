@@ -1,0 +1,79 @@
+.bg{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 50px;
+}
+
+.login{
+    margin-left: 800px;
+}
+
+ul {
+    margin: 0;
+    padding:0;
+}
+
+li {
+    list-style: none; 
+    margin: 10px;
+    display: inline;
+}
+
+ul {
+    margin: 0;
+    padding:0;
+}
+ 
+li {
+    list-style: none; 
+    margin: 10px;
+    display: inline;
+}
+
+li a {
+    padding: 5px 10px; 
+    margin:0;
+    border: 0px solid yellow; 
+    background: yellow;
+    text-decoration: none;
+    color:black;
+    /* cantos arredondados */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+li a:hover {
+    background: #CCC;
+    color: #000; 
+    border-color: #000;
+}
+
+li a {
+    padding: 5px 10px; 
+    margin:0;
+    border: 0px solid yellow; 
+    background: yellow;
+    text-decoration: none;
+    color:black;
+    /* cantos arredondados */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+li a:hover {
+    background: #CCC;
+    color: #000; 
+    border-color: #000;
+}
+
+
+
+.bg{
+    background-image: url("https://worldfootvolley.com/wp-content/uploads/2021/09/IMG_0316-1024x683.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
